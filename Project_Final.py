@@ -25,13 +25,8 @@ with st.sidebar:
 
 
 # title
-#st.markdown("<h1 style='text-align: center;'>Churn prediction</h1>", unsafe_allow_html=True)
-# st.markdown("<h1 style='text-align: center; font-family: monospace; color: green;'>CHURN PREDICTION</h1>", unsafe_allow_html=True)
-# st.markdown("<h1 style='text-align: center; font-family: monospace; color: #40e0d0;'>CHURN PREDICTION</h1>", unsafe_allow_html=True)
-# st.markdown("<h1 style='text-align: center; font-family: monospace; color: #7cfc00;'>CHURN PREDICTION</h1>", unsafe_allow_html=True)
-# st.markdown("<h1 style='text-align: center; font-family: monospace; color: #ffdead;'>CHURN PREDICTION</h1>", unsafe_allow_html=True)
 st.markdown("<h1 style='text-align: center; font-family: monospace; color: #f5deb3;'>CHURN PREDICTION</h1>", unsafe_allow_html=True)
-# st.markdown("<h1 style='text-align: center; font-family: monospace; color: #ffebcd;'>CHURN PREDICTION</h1>", unsafe_allow_html=True)
+
 
 
 
