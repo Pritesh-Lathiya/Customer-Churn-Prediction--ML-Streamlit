@@ -416,9 +416,7 @@ import base64
 
 #             Model
 
-### catboost
 
-from catboost import CatBoostClassifier
 data1=['High', 'Low-Medium', 'Low', 'Medium-High', 'intl_plan_no',
        'intl_plan_yes', 'voice_plan_yes', 'voice_plan_no', 'area_code_415',
        'area_code_408', 'area_code_510', 'account_length', 'voice_messages',
